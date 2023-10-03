@@ -15,7 +15,7 @@
     "sails-hook-orm": "^4.0.0",
     "sails-hook-rate-limit": "^0.0.2",
     "sails-hook-sockets": "^2.0.0",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "eslint": "5.16.0"
