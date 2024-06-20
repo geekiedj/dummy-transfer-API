@@ -14,7 +14,7 @@
     "sails": "^1.5.4",
     "sails-hook-orm": "^4.0.0",
     "sails-hook-rate-limit": "^0.0.2",
-    "sails-hook-sockets": "^2.0.0",
+    "sails-hook-sockets": "^3.0.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
